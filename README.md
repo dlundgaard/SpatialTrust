@@ -1,4 +1,4 @@
-# Spatial Analytics Showcase: Distribution of Social Trust in Continental Europe
+# Spatial Analytics Showcase: Distribution of Generalized Trust in Continental Europe
 
 ## License
 
