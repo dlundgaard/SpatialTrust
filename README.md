@@ -1,5 +1,6 @@
 # Spatial Analytics Showcase: Distribution of Generalized Trust in Continental Europe
 
+## How to replicate
 ```console
 $ source run.sh # set up and activate virtual environment, install dependencies before running analysis workflow
 [SUCCESS] setup completed
