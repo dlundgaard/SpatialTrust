@@ -2,7 +2,7 @@
 
 ## How to replicate
 ```console
-$ source run.sh # set up and activate virtual environment, install dependencies before running analysis workflow
+$ source run.sh # set up virtual environment, install dependencies and run analysis workflow
 [SUCCESS] setup completed
 [SUCCESS] workflow completed
 ```
