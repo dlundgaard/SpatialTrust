@@ -1,8 +1,16 @@
-# Spatial Analytics Showcase
+# Geospatial Distribution of Generalized Trust in Continental Europe
+**Spatial Analytics Showcase**
+
+This repository contains source code and replication instructions for the Spatial Analytics project "Geospatial Distribution of Generalized Trust in Continental Europe".
+
+> The analysis workflow is found in [`analysis.ipynb`](analysis.ipynb).
 
 ## How to replicate
+
+Excecuting the shell script [`run.sh`](run.sh) in a bash terminal will set up a virtual environment, install dependencies and run the analysis workflow, exporting outputs to the [`output/`](output/) directory.
+
 ```console
-$ source run.sh # set up virtual environment, install dependencies, run analysis workflow
+$ source run.sh
 [SUCCESS] setup completed
 [SUCCESS] workflow completed
 ```
