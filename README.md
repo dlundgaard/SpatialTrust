@@ -3,7 +3,7 @@
 
 This repository contains source code and replication instructions for the Spatial Analytics project "Geospatial Distribution of Generalized Trust in Continental Europe".
 
-> The analysis workflow is found in [`analysis.ipynb`](analysis.ipynb).
+> The analysis workflow is found in [`src/analysis.ipynb`](src/analysis.ipynb).
 
 ## How to replicate
 
