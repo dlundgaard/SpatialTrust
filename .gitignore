@@ -1,0 +1,4 @@
+*.bak
+venv/
+data/EVS_WVS_Joint_Csv_v5_0.csv
+__pycache__/

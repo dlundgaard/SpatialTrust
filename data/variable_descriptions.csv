@@ -1,0 +1,244 @@
+﻿variable;description
+ss;Study
+wave;Wave
+version;Version of Joint Data File
+versn_s;Version of EVS5 and WVS7 source data files
+doi_gesis;Digital Object Identifier (GESIS doi)
+doi_wvsa;Digital Object Identifier (WVSA doi)
+studytit;Source of the Joint dataset
+uniqid;Unified respondent number (Joint)
+intrvwr_id;Interviewer number
+cntry;Country (ISO 3166-1 Numeric code)
+cntry_AN;Country (ISO 3166-1 Alpha-2 code)
+cntrycow;Country (CoW Numeric code)
+year;Year survey
+fw_start;Year/month of start-fieldwork
+fw_end;Year/month of end-fieldwork
+cntry_y;Country - year
+mode;Mode of data collection
+mm_mixed_mode_EVS5;Mixed mode/matrix design (EVS5)
+mm_mode_fu_EVS5;Mode of data collection (follow-up) (EVS5)
+mm_matrix_group_EVS5;Matrix attribution (group/variable bloc) (EVS5)
+mm_fw_start_fu_EVS5;Year/month of start-fieldwork (matrix design) (EVS5)
+mm_fw_end_fu_EVS5;Year/month of end-fieldwork (matrix design) (EVS5)
+mm_year_fu_EVS5;Survey year (follow-up) (EVS5)
+ivlength;Total length of interview
+ivstart;Time of the interview - Start [hh.mm]
+ivstend;Time of the interview - End [hh.mm]
+ivdate;Date interview [YYYYMMDD]
+mm_v277_fu_EVS5;Date of interview (follow-up) (EVS5)
+mm_v278a_fu_r_EVS5;Time of ithe nterview -Start (constructed)  (follow-up) (EVS5)
+mm_v279a_fu_r_EVS5;Time of ithe nterview - End (constructed)   (follow-up) (EVS5)
+lnge_num;Language in which interview was conducted (WVS/EVS list of languages)
+lnge_iso;Language in which interview was conducted  (ISO 639-1 alpha-2 / 639-2 alpha-3) 
+gwght;Weight
+pwght;Population size weight
+wght_eq1000;Equilibrated weight-1000
+reg_nuts1;Region where the interview was conducted (NUTS-1)
+reg_nuts2;Region where the interview was conducted (NUTS-2)
+reg_iso;Region where the interview was conducted (ISO) 
+size_5c;Size of town where interview was conducted (5 categories)
+respint;Respondent interested during the interview
+A001;Important in life: Family
+A002;Important in life: Friends
+A003;Important in life: Leisure time
+A004;Important in life: Politics
+A005;Important in life: Work
+A006;Important in life: Religion
+A008;Feeling of happiness
+A009;State of health (subjective)
+A173;How much freedom of choice and control
+A170;Satisfaction with your life
+A027;Important child qualities: good manners
+A029;Important child qualities: independence
+A030;Important child qualities: hard work
+A032;Important child qualities: feeling of responsibility
+A034;Important child qualities: imagination
+A035;Important child qualities: tolerance and respect for other people
+A038;Important child qualities: thrift saving money and things
+A039;Important child qualities: determination perseverance
+A040;Important child qualities: religious faith
+A041;Important child qualities: unselfishness
+A042;Important child qualities: obedience
+A065;Member: Belong to religious organization
+A066;Member: Belong to education, arts, music or cultural activities
+A067;Member: Belong to labour unions
+A068;Member: Belong to political parties
+A071;Member: Belong to conservation, the environment, ecology, animal rights
+A072;Member: Belong to professional associations
+A074;Member: Belong to sports or recreation
+A078;Member: Belong to consumer groups
+A079;Member: Belong to other groups
+A080_01;Member: Humanitarian or charitable organization
+A080_02;Member:  Self-help group, mutual aid group
+A124_02;Neighbours: People of a different race
+A124_03;Neighbours: Heavy drinkers
+A124_06;Neighbours: Immigrants/foreign workers
+A124_08;Neighbours: Drug addicts
+A124_09;Neighbours: Homosexuals
+B008;Protecting environment vs. Economic growth
+C001;"Jobs scarce: Men should have more right to a job than women
+(3-point scale)"
+C001_01;"Jobs scarce: Men should have more right to a job than women
+(5-point scale)"
+C002;"Jobs scarce: Employers should give priority to (nation) people than immigrants
+(3-point scale)"
+C002_01;"Jobs scarce: Employers should give priority to (nation) people than immigrants
+(5-point scale)"
+D081;Homosexual couples are as good parents as other couples
+D026_03;Duty towards society to have children
+D026_05;It is childs duty to take care of ill parent
+C038;People who don´t work turn lazy
+C039;Work is a duty towards society
+C041;Work should come first even if it means less spare time
+D054;One of main goals in life has been to make my parents proud
+D059;Men make better political leaders than women do
+D060;University is more important for a boy than for a girl
+D061;Pre-school child suffers with working mother
+D078;Men make better business executives than women do
+E001;Aims of country: first choice
+E002;Aims of country: second choice
+E003;Aims of respondent: first choice
+E004;Aims of respondent: second choice
+Y002;Post-Materialist index 4-item
+E012;Willingness to fight for country
+E015;Future changes: less importance placed on work
+E018;Future changes: greater respect for authority
+E023;Interest in politics
+E025;Political action: signing a petition
+E026;Political action: joining in boycotts
+E027;Political action: attending lawful/peaceful demonstrations
+E028;Political action: joining unofficial strikes
+E033;Self positioning in political scale
+E035;Income equality
+E036;Private vs state ownership of business
+E037;Government responsibility
+E039;Competition good or harmful
+E069_01;Confidence: Churches
+E069_02;Confidence: Armed Forces
+E069_04;Confidence: The Press
+E069_05;Confidence: Labour Unions
+E069_06;Confidence: The Police
+E069_07;Confidence: Parliament
+E069_08;Confidence: The Civil Services
+E069_18A;Confidence: Major regional organization (combined from country-specific)
+E069_18;Confidence: The European Union
+E069_11;Confidence: The Government
+E069_12;Confidence: The Political Parties
+E069_13;Confidence: Major Companies
+E069_14;Confidence: The Environmental Protection Movement
+E069_17;Confidence: Justice System/Courts
+E069_20;Confidence: The United Nations
+E111_01;Satisfaction with the political system
+E114;Political system: Having a strong leader
+E115;Political system: Having experts make decisions
+E116;Political system: Having the army rule
+E117;Political system: Having a democratic political system
+E179_WVS7;Which party would you vote for: first choice (WVS5)
+E181_EVS5;Which political party appeals to you most (ISO 3166-1) (EVS5)
+E224;Democracy: Governments tax the rich and subsidize the poor.
+E225;Democracy: Religious authorities interpret the laws.
+E226;Democracy: People choose their leaders in free elections.
+E227;Democracy: People receive state aid for unemployment.
+E228;Democracy: The army takes over when government is incompetent.
+E229;Democracy: Civil rights protect people’s liberty against oppression.
+E233;Democracy: Women have the same rights as men.
+E233A;Democracy: The state makes people's incomes equal
+E233B;Democracy: People obey their rulers
+E235;Importance of democracy
+E236;Democraticness in own country
+E263;Vote in elections: local level
+E264;Vote in elections: National level
+E265_01;How often in country's elections: Votes are counted fairly
+E265_02;How often in country's elections: Opposition candidates are prevented from running
+E265_03;How often in country's elections: TV news favors the governing party
+E265_04;How often in country's elections: Voters are bribed
+E265_05;How often in country's elections: Journalists provide fair coverage of elections
+E265_06;How often in country's elections: Election officials are fair
+E265_07;How often in country's elections: Rich people buy elections
+E265_08;How often in country's elections: Voters are threatened with  violence at the polls
+F025;Religious denomination
+F028;How often do you attend religious services
+F028B_WVS7;How often do you pray (WVS7)
+F066_EVS5;Pray to God outside of religious services (EVS5)
+F034;Religious person
+F050;Believe in: God
+F051;Believe in: life after death
+F053;Believe in: hell
+F054;Believe in: heaven
+F063;How important is God in your life
+F114A;Justifiable: Claiming government benefits to which you are not entitled
+F115;Justifiable: Avoiding a fare on public transport
+F116;Justifiable: Cheating on taxes
+F117;Justifiable: Someone accepting a bribe
+F118;Justifiable: Homosexuality
+F119;Justifiable: Prostitution
+F120;Justifiable: Abortion
+F121;Justifiable: Divorce
+F122;Justifiable: Euthanasia
+F123;Justifiable: Suicide
+F132;Justifiable: Having casual sex
+F144_02;Justifiable: Death penalty
+E290;Justifiable: Political violence
+G005;Citizen of country
+"G006
+";How proud of nationality
+A165;Most people can be trusted
+D001_B;How much you trust: Your family (B)
+G007_18_B;Trust: Your neighborhood (B)
+G007_33_B;Trust: People you know personally (B)
+G007_34_B;Trust: People you meet for the first time (B)
+G007_35_B;Trust: People of another religion (B)
+G007_36_B;Trust: People of another nationality (B)
+G052;Evaluate the impact of immigrants on the development of [your country]
+G062;"How close you feel: Continent; e.g. Europe, Asia etc."
+G063;How close you feel: World
+G255;How close you feel: Your village, town or city
+G256;How close do you feel: to your county, region, district 
+G257;How close do you feel: to country 
+H009;Government has the right: Keep people under video surveillance in public areas
+H010;Government has the right: Monitor all e-mails and any other information exchanged on the Internet
+H011;Government has the right: Collect information about anyone living in [COUNTRY] without their knowledge
+X001;Sex
+X002;Year of birth
+X003;Age
+X003R;Age recoded (6 intervals)
+X003R2;Age recoded (3 intervals)
+"G027A
+
+";Respondent immigrant / born in country 
+X002_02A;Respondents country of birth: ISO 3166-1 code
+X002_02B;Respondents country of birth: ISO 3166-1/3 Alpha code 
+"V002
+
+";"Mother immigrant / born in country
+"
+V002A;Mothers country of birth: ISO 3166-1 code
+V002A_01;Mothers country of birth: ISO 3166-1/3 Alpha code 
+V001;"Father immigrant / born in country
+"
+V001A;Fathers country of birth: ISO 3166-1 code
+V001A_01;Fathers country of birth: ISO 3166-1/3 Alpha code 
+X007;Marital status
+X026_01;Do you live with your parents
+X011;How many children do you have
+X013;Number of people in household
+X025A_01;Highest educational level attained - Respondent: ISCED‐code one digit
+X025R;Highest educational level attained - Respondent (recoded)
+W002A_01;Highest educational level attained - Respondent´s Spouse:  ISCED‐code one digit
+W002R;Highest educational level attained - Respondent´s Spouse (recoded)
+V004AM_01;Highest educational level attained - Respondent´s Mother:  ISCED‐code one digit
+V004RM;Highest educational level attained - Respondent´s Mother (recoded)
+V004AF_01;Highest educational level attained - Respondent´s Father:  ISCED‐code one digit
+V004RF;Highest educational level attained - Respondent´s Father (recoded)
+X028;Employment status Respondent
+W003;Employment status Spouse/partner
+X052;Institution of occupation
+X035_EVS5;Job  profession/industry (2 digit ISCO08) - respondent (EVS5)
+X036E_WVS7;Occupational group - respondent (WVS7)
+V097EF;Occupational group - respondent´s father (EVS5 - main earner) (respondent  14 years old) 
+W005_EVS5;Job  profession/industry (2 digit ISCO08) - respondent´s spouse (EVS5)
+W006E_WVS7;Occupational group - respondent´s spouse (WVS7)
+"X047_WVS7
+";Scale of incomes (WVS7)
+X047E_EVS5;Scale of incomes (EVS5)
