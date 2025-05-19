@@ -3,7 +3,7 @@
 
 This repository contains source code and replication instructions for the Spatial Analytics project "Geospatial Distribution of Generalized Trust in Continental Europe".
 
-> The analysis workflow is found in [`src/analysis.ipynb`](src/analysis.ipynb).
+The analysis workflow is found in [`src/analysis.ipynb`](src/analysis.ipynb).
 
 ## How to replicate
 
@@ -14,6 +14,9 @@ $ source run.sh
 [SUCCESS] setup completed
 [SUCCESS] workflow completed
 ```
+
+> N.B.: the raw World Values Survey dataset is not tracked by this repository. If `data/EVS_WVS_Joint_Csv_v5_0.csv` is not present when running the analysis, it defaults to loading a processed version of the dataset, `data/wws_dataset.csv`.
+>To build the dataset from scratch, download the raw dataset from [here](https://www.worldvaluessurvey.org/WVSEVSjoint2017.jsp) and place `EVS_WVS_Joint_Csv_v5_0.csv` in `data/` before running the analysis workflow.
 
 ## License
 
