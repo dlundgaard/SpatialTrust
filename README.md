@@ -12,16 +12,16 @@ This repository contains source code and replication instructions for the Spatia
 
 ## Replication
 
-The analysis may be replicated by installing the package dependencies and running the analysis workflow notebook with [Python 3.12.3](https://www.python.org/downloads/release/python-3123/). Data visualizations are exported to [`output/`](output/).
+The analysis may be replicated by installing the package dependencies and running the analysis workflow with [Python 3.12.3](https://www.python.org/downloads/release/python-3123/). Data visualizations are exported to [`output/`](output/).
 
 ```console
 $ python --version                      # check that Python 3.12.3 is installed
 3.12.3
 $ pip install -r requirements.txt       # install package dependencies
-$ jupyter execute src/analysis.ipynb    # run analysis workflow notebook
+$ python src/analysis.py                # run analysis workflow
 ```
 
-If running from a UNIX bash command line shell, simply executing [`run.sh`](run.sh) will handle this process by setting up a Python virtual environment, installing package dependencies and running analysis workflow.
+If running from a UNIX bash command line shell, simply executing [`run.sh`](run.sh) will handle this process by setting up a Python virtual environment, installing package dependencies and running analysis workflow directly from the Python Jupyter notebook.
 
 ```console
 $ source run.sh
