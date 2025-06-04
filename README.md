@@ -29,7 +29,7 @@ $ source run.sh
 [SUCCESS] workflow completed
 ```
 
-> N.B.: the full World Values Survey (WWS) dataset (`EVS_WVS_Joint_Csv_v5_0.csv`) is not tracked by this repository due to excessive file size. It can be downloaded from [worldvaluessurvey.org](https://www.worldvaluessurvey.org/WVSEVSjoint2017.jsp) and placed in `data/` before running the analysis workflow.
+> N.B.: the full World Values Survey (WWS) dataset (`EVS_WVS_Joint_Csv_v5_0.csv`) is not tracked by this repository due to file size constraints. It can be downloaded from [worldvaluessurvey.org](https://www.worldvaluessurvey.org/WVSEVSjoint2017.jsp) and placed in `data/` before running the analysis workflow.
 >
 >If `data/EVS_WVS_Joint_Csv_v5_0.csv` is not present when running the analysis, the workflow defaults to loading `data/wws_dataset.csv` (a distilled version of the WWS dataset containing only the attribute data relevant to the present analysis).
 
